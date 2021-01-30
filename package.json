@@ -1,0 +1,25 @@
+{
+  "name": "rem",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "anywhere": "^1.5.0",
+    "css-loader": "^5.0.1",
+    "file-loader": "^6.2.0",
+    "node-sass": "^5.0.0",
+    "path": "^0.12.7",
+    "sass-loader": "^10.1.1",
+    "style-loader": "^2.0.0",
+    "url-loader": "^4.1.1",
+    "webpack": "^5.18.0"
+  },
+  "devDependencies": {
+    "webpack-cli": "^4.4.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
